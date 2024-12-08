@@ -26,17 +26,16 @@ Users should be able to:
 -Mobile version-
 
 ![photo](./design/mobile-design.jpg)
-![photo](./design/mobile-active-state.jpg)
 
  -Desktop version
 
 ![photo](./design/desktop-design.jpg)
-![photo](./design/desktop-active-state.jpg)
+![photo](./design/active-state.jpg)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-mvzq3FUFZB)
 - Live Site URL: (https://gleeful-pasca-6d775f.netlify.app/)
 
 ## My process
