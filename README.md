@@ -30,7 +30,7 @@ Users should be able to:
  -Desktop version
 
 ![photo](./design/desktop-design.jpg)
-![photo](./design/active-state.jpg)
+![photo](./design/active-states.jpg)
 
 
 ### Links
