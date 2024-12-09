@@ -85,10 +85,16 @@ body {
     background-color: var(--clr-primary-500);
 }
 
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
 .card{
     border: 1px solid var(--clr-primary-900);
     border-radius: 20px;
-    margin: 156px 24px;
+    margin: 0 2rem;
     padding: 24px;
     background-color: var(--clr-neutral-100);
     box-shadow: 8px 8px 0px var(--clr-primary-900);
@@ -144,8 +150,8 @@ body {
 
 @media (min-width: 376px) {
     .card{
-        margin: 156px auto;
         width: 384px;
+        height: 522px;
     }
 
     .card h1:hover{
